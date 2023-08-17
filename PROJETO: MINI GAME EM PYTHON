@@ -1,0 +1,18 @@
+print("*********************************")
+print("Bem vindo ao jogo de Adivinhação!")
+print("*********************************")
+
+import random
+numero_secreto = random.randint(1, 9)
+
+chute_str = input("Digite o seu número: ")
+print("Você digitou: ", chute_str)
+chute = int(chute_str)
+
+if (numero_secreto == chute):
+    print("Você acertou!")
+else:
+    print("Você errou! O número secreto é:", numero_secreto)
+    
+
+print("Fim do jogo")
