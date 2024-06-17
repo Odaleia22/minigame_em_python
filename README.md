@@ -23,29 +23,29 @@ Compartilhando o meu projeto iniciante na linguagem Python. Trata-se de um mini 
 
 
 
-*chute_str = input("Digite o seu número: "): Nessa linha, o programa solicita que você digite um número. O valor digitado será armazenado na variável chute_str como uma string (valor em texto);
+* chute_str = input("Digite o seu número: "): Nessa linha, o programa solicita que você digite um número. O valor digitado será armazenado na variável chute_str como uma string (valor em texto);
 
 
 
-*print("Você digitou: ", chute_str): Essa linha imprime a mensagem "Você digitou: " seguida pelo valor armazenado na variável chute_str;
+* print("Você digitou: ", chute_str): Essa linha imprime a mensagem "Você digitou: " seguida pelo valor armazenado na variável chute_str;
 
 
 
-*chute = int(chute_str): Essa linha converte o valor armazenado na variável chute_str de uma string para um número inteiro utilizando a função int();
+* chute = int(chute_str): Essa linha converte o valor armazenado na variável chute_str de uma string para um número inteiro utilizando a função int();
 
 
 
- *if (numero_secreto == chute): Essa linha inicia um bloco de código condicional que verifica se o número secreto (armazenado na variável numero_secreto) é igual ao palpite fornecido (armazenado na variável chute);
+ * if (numero_secreto == chute): Essa linha inicia um bloco de código condicional que verifica se o número secreto (armazenado na variável numero_secreto) é igual ao palpite fornecido (armazenado na variável chute);
 
 
 
-*else : Essa linha é parte do bloco condicional e é executada se a condição do if não for verdadeira, ou seja, se o número secreto não for igual ao palpite.
+* else : Essa linha é parte do bloco condicional e é executada se a condição do if não for verdadeira, ou seja, se o número secreto não for igual ao palpite.
 
 
 
-*print("Você errou!"): Se o número secreto não for igual ao palpite, essa linha será executada e imprimirá a mensagem "Você errou!" na tela.
+* print("Você errou!"): Se o número secreto não for igual ao palpite, essa linha será executada e imprimirá a mensagem "Você errou!" na tela.
 
 
 
-*print("Fim do jogo"): Essa linha imprime a mensagem "Fim do jogo" na tela. É uma mensagem para indicar que o jogo chegou ao seu fim.
+* print("Fim do jogo"): Essa linha imprime a mensagem "Fim do jogo" na tela. É uma mensagem para indicar que o jogo chegou ao seu fim.
  main
