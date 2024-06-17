@@ -1,1 +1,1 @@
-Minigame criado como projeto de Python iniciante.
+Minigame de adivinhação de números criado como projeto de Python iniciante.
